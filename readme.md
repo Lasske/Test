@@ -4,5 +4,5 @@
 ////
 
 Создано два файла .py (test.py, test_read.py)
-test.py - выполняет json файл
+test.py - выполняет json файл,
 test_read.py - читает json, как текст
